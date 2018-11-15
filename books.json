@@ -1,0 +1,18 @@
+{
+   "book1" : {
+      "name" : "half girlfriend",
+	  "author"  : "chetan Bhagat"
+    
+   },
+   
+    "book2" : {
+      "name" : "The girl i last loved",
+      "author" : "smita"
+     
+   },
+   
+    "book3" : {
+      "name" : "2 states",
+      "author" : "chetan Bhagat"
+   }
+}
